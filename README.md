@@ -3,6 +3,8 @@
 Este repositório reúne uma coleção organizada de **prompts práticos e estruturados** para diferentes contextos de uso de Inteligência Artificial.  
 O objetivo é servir como um guia de referência para profissionais, estudantes e curiosos que desejam aproveitar melhor o potencial das IAs em tarefas do dia a dia.
 
+📌 **Origem dos prompts:** Tirei esses prompts do curso Bootcamp CAIXA – Inteligência Artificial na prática, oferecido pela [DIO](https://www.dio.me).
+
 ## 🎯 O que você vai encontrar aqui
 - **Finanças pessoais e de mercado**: prompts para organização financeira, relatórios gerenciais de FIIs, análises de investimentos e insights de negócios.  
 - **Produtividade e gestão de tempo**: modelos para planejar semanas de trabalho, aplicar técnicas de foco e criar agendas detalhadas em formato de time blocking.  
@@ -22,6 +24,7 @@ Assim, qualquer pessoa pode adaptar os exemplos às suas necessidades e obter re
 ---
 
 💡 Este repositório é colaborativo: sinta-se à vontade para **explorar, adaptar e compartilhar** os prompts em seus próprios projetos!
+
 
 # 📘 Prompts para IAs
 
