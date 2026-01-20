@@ -63,7 +63,7 @@ Depois me dê um resumo com total gasto, porcentagem por categoria e principais 
 ---
 
 ## 📊 Finanças - Relatório gerencial de FIIs
-Resuma no formato abaixo, mantendo exatamente a estrutura e os títulos, mas podendo usar quantos bullets forem necessários para trazer todas as informações relevantes. Use sempre ícones, números em **negrito** e bullets para destacar.
+Resuma no formato abaixo, mantendo exatamente a estrutura e os títulos, mas podendo usar quantos bullets forem necessários para trazer todas as informações relevantes. Use sempre ícones, números em **negrito** e bullets para destacar. Prompt tirado do site [Invest Ranking](https://www.investranking.com.br/fiis-radar)
 
 ### Modelo
 **[TICKER] - Relatório Gerencial | [MÊS/ANO]**
